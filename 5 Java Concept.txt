@@ -1,0 +1,5 @@
+1. Teach the Intellij Tools
+2. How to Java Memory Works
+3. The Basic Java Language
+4. Data Structures in Java
+5. Testing in Java
